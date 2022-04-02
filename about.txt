@@ -1,0 +1,10 @@
+Tech Stack:
+HTML, CSS, JavaScript, Node, Express, body-parser, ejs, mongoose, nodemon, mongoose-encryption, dotenv.
+
+Database: mongoDB, mongoDB Atlas.
+
+Hosted on: 
+
+As:
+
+https://
